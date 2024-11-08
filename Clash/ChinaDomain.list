@@ -1,4 +1,9 @@
 # 直连列表
+#工作域名
+DOMAIN-SUFFIX,ltmh.hbslft.com
+DOMAIN-SUFFIX,my.elht.com
+DOMAIN-SUFFIX,ltzxgl.com.cn
+DOMAIN-SUFFIX,oa.elht.com
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
